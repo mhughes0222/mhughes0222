@@ -2,7 +2,7 @@
 
 <h2>Cybersecurity Projects:</h2>
 
-- Basic Static Analysis
+- [Basic Static Analysis](https://github.com/mhughes0222/Static-Analysis-of-Malware)
 
 <h2>Connect With Me:</h2>
 
