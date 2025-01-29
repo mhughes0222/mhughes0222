@@ -1,5 +1,14 @@
-## Hi there 👋
+<h1> Hi 👋, I'm Michael </h1>
 
+<h2>Cybersecurity Projects:</h2>
+
+- Basic Static Analysis
+
+<h2>Connect With Me:</h2>
+
+[<img align="left" alt="MichaelHughes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/mhughes0222
 <!--
 **mhughes0222/mhughes0222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
